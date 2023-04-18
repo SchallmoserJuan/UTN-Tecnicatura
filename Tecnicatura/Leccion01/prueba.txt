@@ -1,0 +1,4 @@
+Estamos escribiendo con .write en un archivo
+Los acentos son importantes para las palabras
+Segunda linea de modificación
+Segunda linea de escritura
